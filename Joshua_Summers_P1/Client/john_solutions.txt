@@ -1,0 +1,4 @@
+radius 5: Circle's circumference is 31.40 and area is 78.50
+sides 4 4: Rectangle's perimeter is 16.00 and area is 16.00
+Error: No Sides Found
+sides 4 4: Rectangle's perimeter is 16.00 and area is 16.00
